@@ -4,7 +4,7 @@ Welcome to the Magic Memory Game!
 This is a React app where you can test and improve your memory by flipping tiles to find matching pairs.
 I've created this game/app to test my react abilities and improve my perfomace.
 
-![Demo Of the game][https://memorygamebysandesh.netlify.app/]
+![Demo Of the game](https://memorygamebysandesh.netlify.app/)
 
 ## Features
 
